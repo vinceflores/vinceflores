@@ -3,6 +3,9 @@
 
 # ▸ 🇵🇭:🇨🇦 Hi, I'm Vince Flores 
 
+
+
+
 ### About me
     🏋️ Enjoys working out 
 
@@ -10,11 +13,13 @@
   
     ▹ Agile
     
-    ∟ Best way to learn is to start small 
+    ∟ Best way to learn is to start at something
     
     ≳ AI/AGI is the future
     
     ✅ I see myself working on Digitial ID tech in the future. 
+    
+    ✅ Data Structures are ... 🔥
     
 ### 🛠️ Technologies && Dev Tools 
 <p>
