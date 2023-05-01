@@ -19,7 +19,8 @@
 
 ----------- 
 
-# ▸ 🇵🇭:🇨🇦 Hi, I'm Vince Flores 
+# ▸ Hi, I'm Vince Flores: [portfolio website]('')
+
 
 ### About me
     🏋️ Enjoys working out 
@@ -85,5 +86,5 @@
 
 * [cards](https://github.com/anuraghazra/github-readme-stats)
 * [README stats card](http://github-readme-streak-stats.herokuapp.com/demo/?user=vinceflroes&theme=dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&type=svg&card_width=495&background-type=solid&properties=background)
-* 
+* [Social Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
 
