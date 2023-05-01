@@ -20,10 +20,13 @@
 
 ----------- 
 
-# ▸ Hi, I'm Vince Flores: [portfolio website]('')
+# ▸ Hi, I'm Vince Flores: 
+
+### ✂️Projects 
+[Portfolio Website]('')
 
 
-### About me
+### 👉About me
     🏋️ Enjoys working out 
 
     💻 plans to be a full stack web developer
