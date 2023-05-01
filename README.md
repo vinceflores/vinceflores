@@ -3,8 +3,21 @@
 
 # ▸ 🇵🇭:🇨🇦 Hi, I'm Vince Flores 
 
+### About me
+    🏋️ Enjoys working out 
+
+    💻 plans to be a full stack web developer
+  
+    ▹ Agile
+    
+    ∟ Best way to learn is to start small 
+    
+    ≳ AI/AGI is the future
+    
+    ✅ I see myself working on Digitial ID tech in the future. 
+    
 ### 🛠️ Technologies && Dev Tools 
-<>
+<p>
   <img src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='40' height ='40'/> 
   <img src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' width='40' height ='40'/>
     <img src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' width='40' height ='40'/>&nbsp; 
@@ -15,7 +28,10 @@
    <img src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='40' height ='40'/>&nbsp; 
    <img src ='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' width='40' height ='40'/>&nbsp; 
     <img src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg' width='40' height ='40'/>&nbsp; 
-      <!-- <img src ='' width='40' height ='40'/>&nbsp;  -->
+   <img src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='40' height ='40'/>&nbsp; 
+         <img src ='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' width='40' height='40' />&nbsp; 
+   <!-- <img src ='' width='40' height ='40'/>&nbsp;  --> 
+     
 </p> 
 
 ###  🖋️ Design Tools 
@@ -32,13 +48,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical) -->
 
-|       |  |
-| ----------- | ----------- |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinceflores&theme=dark)](https://git.io/streak-stats)&nbsp;   | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical)       |
+
+<p align = 'center'> 
+  <img src ='http://github-readme-streak-stats.herokuapp.com?user=vinceflores&theme=dark'/>&nbsp; &nbsp; &nbsp; 
+  <img src ='https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical'/>
+</p>
+
 
 <p align = 'center'> 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vinceflores&layout=compact&theme=vision-friendly-dark'/>
- </p>
+</p>
 
 
 
