@@ -18,10 +18,14 @@
       <!-- <img src ='' width='40' height ='40'/>&nbsp;  -->
 </div> 
 
+###  🖋️ Design Tools 
+<div >
+    <img src ='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width='40' height ='40'/>&nbsp; 
+    <!-- <img src ='' width='40' height ='40'/>&nbsp;  -->
+ </div> 
 
-<div align= 'center'>
-<h1> Hello World</h1>
-</div> 
+## STATS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinceflroes&theme=dark)](https://git.io/streak-stats)
 
 
 
