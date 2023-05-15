@@ -27,9 +27,9 @@
 <!-- [Portfolio Website]('') -->
 Recents:
 
-* [EasyBank Landing page]('https://vinceflores-easybank-fem.netlify.app/')
-* [Manage Landing page]('https://vinceflores-managelandingpage.netlify.app/')
-* [University Sample Landing Page]('https://vinceflores-university-landing-page.netlify.app/')
+* [EasyBank_Landing_page](https://vinceflores-easybank-fem.netlify.app/)
+* [Manage_Landing_page](https://vinceflores-managelandingpage.netlify.app/)
+* [University_Sample_Landing_Page](https://vinceflores-university-landing-page.netlify.app/)
 
 ### 👉About me
     🏋️ Enjoys working out 
