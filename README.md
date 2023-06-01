@@ -27,6 +27,7 @@
 <!-- [Portfolio Website]('') -->
 # Portfolio
 ## Live : [here](https://vinceflores.netlify.app/)
+## repo: [here](https://github.com/vinceflores/Personal)
 ![projects_dark_paint](https://github.com/vinceflores/vinceflores/assets/29023871/93ce8222-d105-445a-93e3-c183e1230651)
 
 
