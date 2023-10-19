@@ -30,26 +30,25 @@
 ## repo: [here](https://github.com/vinceflores/Personal)
 ![projects_dark_paint](https://github.com/vinceflores/vinceflores/assets/29023871/93ce8222-d105-445a-93e3-c183e1230651)
 
+Projects 
 
-Recents:
+Full Stack Development: 
+* [Job Application Tracker]() - [Live](https://trackerjobapplication.netlify.app/)
 
+
+Front End Development: 
 * [EasyBank_Landing_page](https://vinceflores-easybank-fem.netlify.app/)
 * [Manage_Landing_page](https://vinceflores-managelandingpage.netlify.app/)
 * [University_Sample_Landing_Page](https://vinceflores-university-landing-page.netlify.app/)
 
 ### 👉About me
-    🏋️ Enjoys working out 
 
+    🏋️ Enjoys working out 
     💻 plans to be a full stack web developer
-  
     ▹ Agile
-    
     ∟ Best way to learn is to start at something
-    
     ≳ AI/AGI is the future
-    
     ✅ I see myself working on Digitial ID tech in the future. 
-    
     ✅ Data Structures are ... 🔥
     
 ### 🛠️ Technologies && Dev Tools 
