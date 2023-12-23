@@ -68,10 +68,9 @@
   <img src ='http://github-readme-streak-stats.herokuapp.com?user=vinceflores&theme=dark'/>
 
 </center>
-<center>
+<!-- <center>
   <img src ='https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical'/>
-</center>
-
+</center> -->
 <center>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vinceflores&layout=compact&theme=vision-friendly-dark'/>
 </center>
