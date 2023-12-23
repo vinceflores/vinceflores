@@ -14,32 +14,12 @@
     </a>
     <a href='https://github.com/vinceflores'>
         <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
-    </a>
-        
+    </a>      
 </div>
 
 ----------- 
 
 # ▸ Hi, I'm Vince Flores: 
-
-### ✂️Projects 
-
-<!-- [Portfolio Website]('') -->
-# Portfolio
-## Live : [here](https://vinceflores.ca/)
-## repo: [here](https://github.com/vinceflores/Personal)
-![projects_dark_paint](https://github.com/vinceflores/vinceflores/assets/29023871/93ce8222-d105-445a-93e3-c183e1230651)
-
-Projects 
-
-Full Stack Development: 
-* [Job Application Tracker]() - [Live](https://trackerjobapplication.netlify.app/)
-
-
-Front End Development: 
-* [EasyBank_Landing_page](https://vinceflores-easybank-fem.netlify.app/)
-* [Manage_Landing_page](https://vinceflores-managelandingpage.netlify.app/)
-* [University_Sample_Landing_Page](https://vinceflores-university-landing-page.netlify.app/)
 
 ### 👉About me
 
@@ -84,15 +64,17 @@ Front End Development:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical) -->
 
 
-<p align = 'center'> 
-  <img src ='http://github-readme-streak-stats.herokuapp.com?user=vinceflores&theme=dark'/>&nbsp; &nbsp; &nbsp; 
+<p center> 
+  <img src ='http://github-readme-streak-stats.herokuapp.com?user=vinceflores&theme=dark'/>
+
+</center>
+<center>
   <img src ='https://github-readme-stats.vercel.app/api?username=vinceflores&show_icons=true&theme=radical'/>
-</p>
+</center>
 
-
-<p align = 'center'> 
+<center>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vinceflores&layout=compact&theme=vision-friendly-dark'/>
-</p>
+</center>
 
 
 
