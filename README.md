@@ -46,12 +46,15 @@
    <img src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='40' height ='40'/>&nbsp; 
          <img src ='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' width='40' height='40' />&nbsp; 
    <!-- <img src ='' width='40' height ='40'/>&nbsp;  --> 
+    <img src ='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' width='40' height ='40'/>&nbsp; 
      
 </p> 
 
 ###  🖋️ Design Tools 
 <p>
     <img src ='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width='40' height ='40'/>&nbsp; 
+    <img src ='https://github.com/rodrigooler/icons-company/blob/master/png/Adobe.png' width='40' height ='40'/>&nbsp; 
+    <img src ='https://d.line-scdn.net/lcp-prod-photo/20210510_149/1620636416678CxkTu_PNG/WKIWO2TKOUXMRD7IS2LQJFT6I9OWAB.png' width='40' height ='40'/>&nbsp; 
     <!-- <img src ='' width='40' height ='40'/>&nbsp;  -->
 </p>
 
